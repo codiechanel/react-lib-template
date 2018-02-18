@@ -1,0 +1,1 @@
+export default 'Welcome to my-module'
